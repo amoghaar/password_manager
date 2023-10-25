@@ -1,0 +1,42 @@
+# Password Manager Application
+
+## Overview
+
+The Password Manager application is a simple utility for securely storing and managing passwords and website login information. It provides the following features:
+
+- Password generation: Generate strong, random passwords with a combination of letters, numbers, and symbols.
+- Password storage: Store website names, email/username, and corresponding passwords securely.
+- Password retrieval: Retrieve stored passwords when needed.
+- User-friendly graphical interface: Easy-to-use graphical user interface (GUI).
+
+## How It Works
+
+- **Password Generation:** Click the "Generate Password" button to create a random, strong password that can be copied to your clipboard.
+
+- **Password Storage:** Enter the website name, email/username, and password in the provided fields. Click the "Add" button to securely save the information. It will be stored in a JSON file.
+
+- **Password Retrieval:** Enter the website name and click the "Search" button to retrieve the stored email/username and password.
+
+## Technologies Used
+
+The Password Manager application is built using the following technologies:
+
+- Python
+- Tkinter (Python's standard GUI library)
+
+## Getting Started
+
+To run the application, make sure you have Python installed. Additionally, you should have the `logo.png` image file in the same directory as the Python script.
+
+1. Run the Python script `password_manager.py` to start the Password Manager application.
+2. Use the various buttons and input fields to generate, store, and retrieve passwords.
+
+## License
+
+This project is open-source and licensed under the MIT License. You are free to use, modify, and distribute the code as needed.
+
+## Support or Contact
+
+If you have any questions or need assistance with this project, please feel free to contact us at [your-email@example.com].
+
+Thank you for using the Password Manager application!
